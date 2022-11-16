@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.tenor.com/cKqWdvbmqAEAAAAC/2077-night.gif" />
+</p>
 ![MasterHead](https://media.tenor.com/cKqWdvbmqAEAAAAC/2077-night.gif)
 <!--https://media4.giphy.com/headers/levberry/wWIVadS9YYBK.gif-->
 <h1 align="center">Hi 👋, I'm Michael Geere</h1>
