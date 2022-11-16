@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.tenor.com/cKqWdvbmqAEAAAAC/2077-night.gif" />
+  <img src="https://media.tenor.com/na70lzlxFCUAAAAM/africa-working.gif" />
 </p>
-![MasterHead](https://media.tenor.com/cKqWdvbmqAEAAAAC/2077-night.gif)
 <!--https://media4.giphy.com/headers/levberry/wWIVadS9YYBK.gif-->
 <h1 align="center">Hi 👋, I'm Michael Geere</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
