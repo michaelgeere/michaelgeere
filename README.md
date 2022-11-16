@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
+![MasterHead](https://cutewallpaper.org/25/animated-city-pixel-art-wallpaper/cyberpunk-city-pixeljointcom-cool-pixel-art-pixel-city-pixel-art.gif)
 <!--https://media4.giphy.com/headers/levberry/wWIVadS9YYBK.gif-->
 <h1 align="center">Hi 👋, I'm Michael Geere</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
